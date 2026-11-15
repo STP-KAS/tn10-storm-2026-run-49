@@ -8,4 +8,4 @@
 
 **Certainty labels:** **A** = measured on TN10 and in the linked files. **B** = same node code, so it probably applies elsewhere, but not tested there. **C** = opinion or guess.
 
-This pre-run has not sent when this page was written. A file here does not arm an earlier pre-run.
+This page was written before any submit. The run has since been closed from the payment minute log and the kind phase lines. On 15 Nov 2026 we call it a day for now. Pre-run 49 is the last run of this stretch. This page does not arm another run. It is not a conclusion about Kaspa, and it is not advice.
